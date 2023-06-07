@@ -3,3 +3,5 @@ pip install opencv-python
 pip install opencv-contrib-python
 
 pip istall cv2
+
+pip install imutils
